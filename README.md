@@ -22,8 +22,8 @@ Credit Card Fraud Detection Dataset (containing PCA-transformed features V1-V28,
 ## 🚀 Cloud Deployment
 
 The FastAPI backend is production-deployed on **Render**. 
-* **Live API Endpoint:** `https://your-render-app-name.onrender.com` *(Apne Render app ka live link yahan dalein)*
-* **Interactive API Docs (Swagger UI):** `https://your-render-app-name.onrender.com/docs`
+* **Live API Endpoint:** "https://credit-card-fraud-detection-ofe1.onrender.com"
+* **Interactive API Docs (Swagger UI):** 'https://credit-card-fraud-detection-ofe1.onrender.com/docs'
 
 ## 💻 How to Run Locally
 
